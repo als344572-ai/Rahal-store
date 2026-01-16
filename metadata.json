@@ -1,0 +1,7 @@
+{
+  "name": "Rahal Tent 1st",
+  "description": "A high-performance bilingual rental booking application for tents and heritage equipment, featuring variant-based product management and online payments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
